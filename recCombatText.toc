@@ -1,0 +1,29 @@
+## Interface: 30300
+## Title: recCombatText
+## Author: Recluse
+## Dependencies: recMedia, recLib
+## Version: $Id: recCombatText.toc 550 2010-03-02 15:27:53Z john.d.mann@gmail.com $
+
+core\init.lua
+settings.lua
+core\utils.lua
+core\parser.lua
+
+core\core.lua
+
+# Please do not remove the plugins below!!
+# To disable, edit settings.lua
+plugins\loot_items.lua
+plugins\loot_money.lua
+plugins\combat_notice.lua
+plugins\experience.lua
+plugins\reputation.lua
+plugins\honor.lua
+plugins\buffs.lua
+plugins\damage.lua
+plugins\healing.lua
+plugins\power.lua
+plugins\debuffs.lua
+plugins\killing_blow.lua
+plugins\misses.lua
+plugins\environmental.lua
